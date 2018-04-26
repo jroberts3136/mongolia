@@ -1,0 +1,1 @@
+package com.company;/*** Created by jroberts3136 on 4/19/18.*/public class C {public static void main(String[] args) {for(int c = 0; c <=100; c++){c(c);}}public static void c(double c){double cc = Math.random()*2*c;for (int ccc = 0; ccc < cc; ccc++){System.out.println(cc % (Math.random()*c));}}}

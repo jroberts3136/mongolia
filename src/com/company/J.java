@@ -1,7 +1,1 @@
-package com.company;
-
-/**
- * Created by jroberts3136 on 5/18/18.
- */
-public class J {
-}
+package com.company;import java.awt.Desktop;import java.net.URI;/*** Created by jroberts3136 on 5/18/18.*/public class J {public static void main(String[] args) throws Exception{Desktop j = Desktop.getDesktop();URI jj = new URI("https://www.java.com/en/download/whatis_java.jsp");URI jjj = new URI("https://www.java.com/en/download/faq/whatis_java.xml");URI jjjj = new URI("https://en.wikipedia.org/wiki/Java_(programming_language)");URI jjjjj = new URI("https://www.thoughtco.com/what-is-java-2034117");URI jjjjjj = new URI("https://www.edureka.co/blog/what-is-java/");URI jjjjjjj = new URI("https://www.cnet.com/forums/discussions/what-is-java-and-can-i-do-without-it/");URI jjjjjjjj = new URI("https://www.techopedia.com/definition/3927/java");URI jjjjjjjjj = new URI("https://lifehacker.com/5988800/what-is-java-is-it-insecure-and-should-i-use-it");URI jjjjjjjjjj = new URI("https://www.guru99.com/java-platform.html");for (int jjjjjjjjjjj = 0; jjjjjjjjjjj<5; jjjjjjjjjjj++){j.browse(jj);j.browse(jjj);j.browse(jjjj);j.browse(jjjjj);j.browse(jjjjjj);j.browse(jjjjjjj);j.browse(jjjjjjjj);j.browse(jjjjjjjjj);j.browse(jjjjjjjjjj);}}}
